@@ -185,9 +185,9 @@ No permission to use, copy, modify, or distribute this software is granted witho
 
 ## Author
 
-**Kunal Sikdar**
+**Voidhat Kunal **
 
-Digital Forensics | Cybersecurity | Ethical Hacking
+Digital Forensics | Cybersecurity | Ethical Hacking | Cyber Crime Investigation
 
 - GitHub: [@voidhat-kunal](https://github.com/voidhat-kunal)
 
