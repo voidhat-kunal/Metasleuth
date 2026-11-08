@@ -1,5 +1,31 @@
-# Add only the third-party packages imported by Metasleuth.py.
-# Generate a verified list from your working environment with:
-#     python -m pip freeze
-#
-# Do not paste the entire environment blindly; keep runtime dependencies only.
+
+# =====================================================
+# MetaSleuth - Python Dependencies
+# Digital Forensics & Metadata Analysis Tool
+# =====================================================
+
+# Image Processing & Metadata Extraction
+Pillow>=10.0.0
+
+# Image Metadata Extraction
+ExifRead>=3.0.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# Document Processing
+python-docx>=1.1.0
+
+# Data Analysis
+pandas>=2.0.0
+
+# =====================================================
+# Optional Dependencies
+# Uncomment if required by your project
+# =====================================================
+
+# OpenCV image processing
+# opencv-python>=4.8.0
+
+# Cryptographic operations
+# cryptography>=41.0.0
