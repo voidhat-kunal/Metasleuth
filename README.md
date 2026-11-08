@@ -185,7 +185,7 @@ No permission to use, copy, modify, or distribute this software is granted witho
 
 ## Author
 
-**Voidhat Kunal **
+**Voidhat Kunal**
 
 Digital Forensics | Cybersecurity | Ethical Hacking | Cyber Crime Investigation
 
