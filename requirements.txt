@@ -1,0 +1,5 @@
+# Add only the third-party packages imported by Metasleuth.py.
+# Generate a verified list from your working environment with:
+#     python -m pip freeze
+#
+# Do not paste the entire environment blindly; keep runtime dependencies only.
