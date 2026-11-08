@@ -82,7 +82,7 @@ Built with Python, MetaSleuth aims to simplify evidence examination and provide 
 |---|---|
 | Programming Language | Python |
 | Application Type | Desktop Application |
-| Operating System Target | Windows | & Linux |
+| Operating System Target | Windows & Linux |
 | Analysis Focus | Digital Forensics & Metadata Analysis |
 
 ---
