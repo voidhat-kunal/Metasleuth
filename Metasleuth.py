@@ -1,26 +1,4 @@
-"""
-MetaSleuth 3.0 - Forensic Metadata Analysis Suite
-=================================================
-Single-file Windows desktop application (CustomTkinter).
-
-  RUN          :  python Metasleuth.py
-  BUILD .EXE   :  python Metasleuth.py --build-exe      (creates dist/MetaSleuth.exe)
-
-Features
-  * Drag & drop / multi-file / folder batch analysis (threaded, UI never freezes)
-  * Images (EXIF, GPS, XMP, ICC, PNG chunks, appended-data & C2PA / AI hints),
-    PDF (info, revisions, JavaScript / auto-actions), Office & ODF documents
-    (author, dates, macros, external references), audio / video tags
-  * Signature-vs-extension mismatch, Shannon entropy, MD5/SHA-1/SHA-256/SHA-512
-  * Windows "Mark of the Web" (Zone.Identifier) download origin
-  * Automated forensic indicators with severity levels
-  * Hex viewer + search, strings & IOC extraction (URLs, e-mails, IPs, paths)
-  * Error Level Analysis (ELA) and one-click metadata scrubber for images
-  * Unified timeline, side-by-side file comparison, hash verification
-  * Case information, audit log, JSON / CSV / TXT / HTML report export
-"""
 from __future__ import annotations
-
 import base64
 import collections
 import concurrent.futures
